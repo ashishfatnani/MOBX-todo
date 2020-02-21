@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+.form-group mt-2 mr-2 {
+  margin-right: auto 0;
+}
+.App-header {
+  color: aqua;
+}
+.card {
+  width: 18rem;
+
+  margin: auto;
+}
+.inputext {
+  border: 1px solid black;
+}
